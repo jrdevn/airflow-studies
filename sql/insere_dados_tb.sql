@@ -1,0 +1,1 @@
+INSERT INTO TB_CLIENTE (name, dt) VALUES('Luiz Antonio', '{{ ds }}')
